@@ -1,0 +1,22 @@
+@media (max-width:991px){
+    .image{
+        display: none;
+    }
+    .content{
+        width: 100%;
+     margin-left: 70px;
+
+    }
+    .navbar{
+        width: 100%;
+        background-color: #ed1a3b;
+    }
+    ul  li{
+        border-left:solid white 0 ;
+        
+    }
+    ul li:nth-child(5){
+        border-right: solid white 0
+    }
+   
+}
